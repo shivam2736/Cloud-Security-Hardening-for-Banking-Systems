@@ -663,15 +663,6 @@ We welcome contributions from security professionals! Please see our [Contributi
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Capital One Security Team** - Cloud security best practices inspiration
-- **AWS Security Team** - Technical guidance and support
-- **Banking Industry** - Regulatory compliance requirements
-- **Open Source Community** - Security tools and frameworks
-
----
-
 <div align="center">
 
 **⭐ Star this repository if it helped enhance your security posture!**
